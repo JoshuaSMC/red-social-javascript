@@ -2,12 +2,13 @@
 
 Aplicación web desarrollada con **JavaScript puro** que simula una red social básica permitiendo publicar mensajes, ver publicaciones de otros usuarios e interactuar en un entorno sencillo.  
 Este proyecto nace como ejercicio de aprendizaje para profundizar en lógica de negocio, manipulación del DOM y gestión de datos en el cliente.
+El concepto es una red social con tematica de halloween, donde contas tus confesiones.
 
 ---
 
 ## 🚀 Demo
 
-🔗 **Deploy:** [Ver en Netlify](https://tu-deploy-red-social.netlify.app/)  
+🔗 **Deploy:** [Ver en Netlify](https://tellme-red-social-simple.netlify.app/)  
 🔗 **Repositorio:** [GitHub](https://github.com/JoshuaSMC/red-social-javascript)
 
 ---
