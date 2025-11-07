@@ -105,6 +105,7 @@ Abrí index.html en tu navegador (o si usás servidor local, iniciá http-server
 ## 👨‍💻 Autor
 
 Desarrollado por Joshua SMC
+
 📫 Front End Developer | JavaScript | HTML | CSS | UX/UI
 
 ⭐ Si te gustó este proyecto, ¿podés dejar una estrella en el repositorio?
